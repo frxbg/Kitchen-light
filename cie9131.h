@@ -2,7 +2,7 @@
 // Automatically generated
 // By Toni Stoyanov
 
-const unsigned char cie[1024] = {
+const uint16_t cie[1024] = {
  0, 0, 0, 0, 0, 1, 1, 1, 1,
  1, 1, 1, 1, 1, 2, 2, 2, 2, 2,
  2, 2, 2, 2, 3, 3, 3, 3, 3, 3,
